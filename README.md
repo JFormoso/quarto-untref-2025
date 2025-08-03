@@ -88,8 +88,14 @@ Si disfrutaste este taller y queres saber más sobre Quarto, R o investigación 
 
 ## Licencia
 
-Estos materiales están publicados bajo la licencia [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA)](https://creativecommons.org/licenses/by-nc-sa/4.0/), la cual implica:
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
--   Atribución: Podés compartir y adaptar el material siempre que reconozcas la autoría de forma adecuada.
--   Uso no comercial: No está permitido usar el material con fines comerciales.
--   Compartir igual: Si adaptás o transformas el material, debés distribuirlo bajo la misma licencia.
+Estos materiales están publicados bajo la licencia
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
