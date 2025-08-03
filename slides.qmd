@@ -1,7 +1,7 @@
 ---
 title: "Comunica tus datos con R y Quarto"
 author: "Jesica Formoso"
-institute: "R-Ladies Buenos Aires<br>{{< fa link >}} [https://jformoso.github.io/quarto-untref/](https://jformoso.github.io/quarto-untref/)"
+institute: "R-Ladies Buenos Aires<br>{{< fa link >}} [https://jformoso.github.io/quarto-untref-2025/](https://jformoso.github.io/quarto-untref-2025/)"
 title-slide-attributes:
   data-background-image: "img/towfiqu-barbhuiya-KKHs1e2yiwc-unsplash.jpg"
   data-background-size: cover
