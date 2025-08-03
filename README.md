@@ -88,7 +88,7 @@ Si disfrutaste este taller y queres saber más sobre Quarto, R o investigación 
 
 ## Licencia
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+[![CC BY 4.0][cc-by-shield]][cc-by]
 
 Estos materiales están publicados bajo la licencia
 [Creative Commons Attribution 4.0 International License][cc-by].
