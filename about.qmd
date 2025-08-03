@@ -1,0 +1,29 @@
+---
+title: "👋 Soy Jesica"
+comments: false
+image: "img/jesi.png"
+about:
+  template: broadside
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:jesica.formoso@gmail.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/JFormoso
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jesica-formoso-16ab4649/ 
+---
+
+### 👩‍🎓 Formación y trayectoria
+
+Me llamo Jesica Formoso. Soy psicóloga cognitiva, Doctora por la Universidad de Buenos Aires (UBA) e investigadora del Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) en Argentina. En 2015 conocí R... y me enamoré. Desde entonces me especialicé en estadística aplicada a las ciencias de la salud (UBA), me certifiqué como [instructora de RStudio (hoy Posit)](https://education.rstudio.com/trainers/people/formoso+jesica/) y como [instructora](https://carpentries.org/community/instructors/) y [trainer](https://carpentries.org/community/instructor-trainers/) de The Carpentries.
+
+### 💻 Qué hago
+
+Además de investigar sobre la comprensión de texto en niños, enseño y desarrollo contenidos para cursos de estadística, programación, ciencia de datos y visualización en diversas universidades e instituciones. Además, asesoro proyectos de investigación en diseño metodológico, análisis estadístico y desarrollo de herramientas reproducibles. Esto implica colaborar estrechamente con equipos de investigación para automatizar flujos de trabajo, documentar código, organizar datos y desarrollar software que haga que la ciencia sea más abierta, reutilizable y sostenible.
+
+### 🌍 Comunidades y ciencia abierta
+
+Soy parte del equipo de [MetaDocencia🍎](https://www.metadocencia.org/), donde coordino el área de medición de impacto y promuevo prácticas de ciencia abierta en América Latina. También organizo actividades en [R-Ladies Buenos Aires](https://rladiesba.netlify.app/), una comunidad que impulsa la diversidad en ciencia de datos y programación en R.
