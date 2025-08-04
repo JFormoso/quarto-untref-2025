@@ -5,42 +5,39 @@ execute:
 toc: true
 ---
 
-📅 **Fecha:** Lunes 4 de agosto, 2025 
+📅 **Fecha:** Lunes 4 de agosto, 2025
 
-🕕 **Horario:** 18 a 20 h (UTC -3) 
+🕕 **Horario:** 18 a 20 h (UTC -3)
 
 📍 **Dirección:** [Maipú 71, CABA (UNTREF sede posgrado)](https://maps.app.goo.gl/pnxFhK5aQ7aDYDHt6)
-
 
 ## 🎯 Objetivo del taller
 
 Este taller tiene como objetivo introducir el uso de Quarto para la creación de documentos reproducibles que integran código, texto, visualizaciones y resultados en un solo archivo. Se trata de un curso introductorio, por lo que está dirigido a personas con poca o ninguna experiencia en el uso de Quarto. Se asume cierto conocimiento básico de R.
 
-
 ## 📚 ¿Qué vas a aprender?
 
 Durante este taller, vas a aprender a:
 
-- Crear proyectos y documentos .qmd en RStudio
+-   Crear proyectos y documentos .qmd en RStudio
 
-- Escribir documentos reproducibles combinando texto, código y visualizaciones
+-   Escribir documentos reproducibles combinando texto, código y visualizaciones
 
-- Referenciar figuras, tablas y bibliografía automáticamente
+-   Referenciar figuras, tablas y bibliografía automáticamente
 
-- Generar documentos en distintos formatos (HTML, Word, PDF, slides)
+-   Generar documentos en distintos formatos (HTML, Word, PDF, slides)
 
-- Incorporar buenas prácticas para informes reproducibles
+-   Incorporar buenas prácticas para informes reproducibles
 
 La actividad será práctica y guiada, por lo que vas a necesitar tu computadora para seguir los pasos con nosotras.
 
 ## 🧰 Requisitos técnicos
 
-Es muy importante que tengas el entorno configurado antes del taller para poder seguirlo sin inconvenientes. Si tenés dudas, escribinos a [rladiesba@gmail.com](mailto:rladiesba@gmail.com) o dejá un comentario en el evento en [Meetup](https://www.meetup.com/rladies-buenos-aires/events/310087336/).
+Es muy importante que tengas el entorno configurado antes del taller para poder seguirlo sin inconvenientes. Si tenés dudas, escribinos a [rladiesba\@gmail.com](mailto:rladiesba@gmail.com) o dejá un comentario en el evento en [Meetup](https://www.meetup.com/rladies-buenos-aires/events/310087336/).
 
-1. **R (versión 4.5.1)**
+1.  **R (versión 4.5.1)**
 
 Para actualizar R:
-
 
 ```{r, eval=FALSE}
 
@@ -50,21 +47,19 @@ updateR()
 
 ```
 
-
-2. **Quarto (versión 1.7)**
+2.  **Quarto (versión 1.7)**
 
 Descargá e instalá Quarto CLI desde:
 
-👉 [https://quarto.org/docs/download/](https://quarto.org/docs/download/)
+👉 <https://quarto.org/docs/download/>
 
-3. **RStudio (versión 2025.05.1)**
+3.  **RStudio (versión 2025.05.1)**
 
 Descargá e instalá la última versión desde:
 
-👉 [https://posit.co/download/rstudio-desktop/](https://posit.co/download/rstudio-desktop/)
+👉 <https://posit.co/download/rstudio-desktop/>
 
-Luego, verificá que RStudio esté usando la versión más reciente de R.
-En la consola de RStudio, escribí:
+Luego, verificá que RStudio esté usando la versión más reciente de R. En la consola de RStudio, escribí:
 
 ```{r}
 
@@ -72,35 +67,28 @@ version
 
 ```
 
-
 ::: {.callout-tip icon="gear" title="Cómo cambiar la versión de R en RStudio"}
-
 Si RStudio no está usando la versión más reciente de R que instalaste, seguí estos pasos:
 
-1. Abrí el menú **Herramientas / Tools**
+1.  Abrí el menú **Herramientas / Tools**
 
-2. Seleccioná **Opciones globales / Global Options**
+2.  Seleccioná **Opciones globales / Global Options**
 
-3. En la pestaña **General**, buscá el campo **Versión de R**
+3.  En la pestaña **General**, buscá el campo **Versión de R**
 
-4. Elegí la versión más reciente disponible
+4.  Elegí la versión más reciente disponible
 
-5. Hacé clic en **Apply** y luego en **OK**
-
-
+5.  Hacé clic en **Apply** y luego en **OK**
 :::
 
-4. **Paquetes de R necesarios**
+4.  **Paquetes de R necesarios**
 
 Instalá el paquete tidyverse desde la consola:
-
 
 ```{r, eval=FALSE}
 install.packages("tidyverse")
 
 ```
-
-
 
 ## 🤝 Código de conducta
 
@@ -110,14 +98,11 @@ R-Ladies se dedica a proporcionar una experiencia libre de acoso para todes. Con
 
 Los materiales de este taller se inspiran en:
 
-- [Parameterized Reporting with Quarto](https://github.com/jadeynryan/parameterized-quarto-workshop) – R-Ladies Abuja (Jadeyn Ryan)
+-   [Parameterized Reporting with Quarto](https://github.com/jadeynryan/parameterized-quarto-workshop) – R-Ladies Abuja (Jadeyn Ryan)
 
-- [Build-a-Dashboard](https://posit-conf-2024.github.io/quarto-dashboards/) – Mine Çetinkaya-Rundel
+-   [Build-a-Dashboard](https://posit-conf-2024.github.io/quarto-dashboards/) – Mine Çetinkaya-Rundel
 
-
-
-## 💜 Auspiciantes 
-
+## 💜 Auspiciantes
 
 Este taller se encuentra auspiciado por:
 
@@ -131,14 +116,6 @@ Este taller se encuentra auspiciado por:
 
 © 2024 Jesica Formoso
 
-Estos materiales están publicados bajo la licencia [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA)](https://creativecommons.org/licenses/by-nc-sa/4.0/), la cual implica:
+Estos materiales están publicados bajo la licencia [Creative Commons Attribution 4.0 International (CC BY  4.0)](http://creativecommons.org/licenses/by/4.0/), la cual implica que podés compartir y adaptar el material siempre que reconozcas la autoría de forma adecuada.
 
--   Atribución: Podés compartir y adaptar el material siempre que reconozcas la autoría de forma adecuada.
--   Uso no comercial: No está permitido usar el material con fines comerciales.
--   Compartir igual: Si adaptás o transformas el material, debés distribuirlo bajo la misma licencia.
-
-{{< fa brands creative-commons size=2x >}} 
-{{< fa brands creative-commons-by size=2x >}} 
-{{< fa brands creative-commons-nc size=2x >}} 
-{{< fa brands creative-commons-sa size=2x >}}
-
+{{< fa brands creative-commons size=2x >}} {{< fa brands creative-commons-by size=2x >}}
