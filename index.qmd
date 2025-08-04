@@ -11,6 +11,8 @@ toc: true
 
 📍 **Dirección:** [Maipú 71, CABA (UNTREF sede posgrado)](https://maps.app.goo.gl/pnxFhK5aQ7aDYDHt6)
 
+<a href="https://doi.org/10.5281/zenodo.16736735"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.16736735.svg" alt="DOI"></a>
+
 ## 🎯 Objetivo del taller
 
 Este taller tiene como objetivo introducir el uso de Quarto para la creación de documentos reproducibles que integran código, texto, visualizaciones y resultados en un solo archivo. Se trata de un curso introductorio, por lo que está dirigido a personas con poca o ninguna experiencia en el uso de Quarto. Se asume cierto conocimiento básico de R.
