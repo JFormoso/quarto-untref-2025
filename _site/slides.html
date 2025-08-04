@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="es"><head>
+<link href="./img/logo-rladies-BA.png" rel="icon" type="image/png">
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-html/tabby.min.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -12,7 +13,7 @@
   <meta name="generator" content="quarto-1.7.32">
 
   <meta name="author" content="Jesica Formoso">
-  <title>Comunicá tus datos con R y Quarto – Comunica tus datos con R y Quarto</title>
+  <title>Comunicá tus datos con R y Quarto</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -129,7 +130,7 @@
     <div class="slides">
 
 <section id="title-slide" data-background-image="img/towfiqu-barbhuiya-KKHs1e2yiwc-unsplash.jpg" data-background-opacity="0.25" data-background-size="cover" class="quarto-title-block center">
-  <h1 class="title">Comunica tus datos con R y Quarto</h1>
+  <h1 class="title">Comunicá tus datos con R y Quarto</h1>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
@@ -137,7 +138,7 @@
 Jesica Formoso 
 </div>
         <p class="quarto-title-affiliation">
-            R-Ladies Buenos Aires<br><i class="fa-solid fa-link" aria-label="link"></i> <a href="https://jformoso.github.io/quarto-untref-2025/">https://jformoso.github.io/quarto-untref-2025/</a>
+            R-Ladies Buenos Aires<br><i class="fa-solid fa-link" aria-label="link"></i> <a href="https://jformoso.github.io/rladies-quarto-untref/">https://jformoso.github.io/rladies-quarto-untref/</a>
           </p>
     </div>
 </div>
@@ -146,6 +147,12 @@ Jesica Formoso
 <section id="mientras-esperás-a-que-comencemos" class="slide level2">
 <h2>Mientras esperás a que comencemos…</h2>
 <p>Asegurate de haber seguido las instrucciones de configuración y que tengas los programas y paquetes que necesitás para seguir el taller:</p>
+<ol type="1">
+<li><strong>R (versión 4.5.1)</strong></li>
+<li><strong>Quarto (versión 1.7)</strong></li>
+<li><strong>RStudio (versión 2025.05.1)</strong></li>
+<li><strong>Paquete tidyverse</strong></li>
+</ol>
 </section>
 <section id="este-encuentro-es-posible-por-el-apoyo-de" class="slide level2">
 <h2>Este encuentro es posible por el apoyo de:</h2>
@@ -168,13 +175,11 @@ Jesica Formoso
 </section>
 <section id="licencia" class="slide level2">
 <h2>Licencia</h2>
-<p>Estos materiales están publicados bajo la licencia <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA)</a>, la cual implica:</p>
+<p>Estos materiales están publicados bajo la licencia <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY)</a>:</p>
 <ul>
 <li>Atribución: Podés compartir y adaptar el material siempre que reconozcas la autoría de forma adecuada.</li>
-<li>Uso no comercial: No está permitido usar el material con fines comerciales.</li>
-<li>Compartir igual: Si adaptás o transformas el material, debés distribuirlo bajo la misma licencia.</li>
 </ul>
-<p><i class="fa-brands fa-creative-commons fa-2x" aria-label="creative-commons"></i> <i class="fa-brands fa-creative-commons-by fa-2x" aria-label="creative-commons-by"></i> <i class="fa-brands fa-creative-commons-nc fa-2x" aria-label="creative-commons-nc"></i> <i class="fa-brands fa-creative-commons-sa fa-2x" aria-label="creative-commons-sa"></i></p>
+<p><i class="fa-brands fa-creative-commons fa-2x" aria-label="creative-commons"></i> <i class="fa-brands fa-creative-commons-by fa-2x" aria-label="creative-commons-by"></i></p>
 </section>
 <section id="organizadoras" class="slide level2">
 <h2>Organizadoras</h2>
@@ -182,13 +187,13 @@ Jesica Formoso
 <div class="column" style="width:10%;">
 
 </div><div class="column" style="width:20%;">
-<p><img data-src="img/betsy2.png" style="border-radius:1em;margin-top:auto"></p>
+<p><img data-src="img/betsy2.png" style="border-radius:1em;margin-top:auto" width="270"></p>
 <p>Betsabé Cohen</p>
 </div><div class="column" style="width:20%;">
-<p><img data-src="img/vir.jpg" style="border-radius:1em;margin-top:auto"></p>
+<p><img data-src="img/vir.jpg" style="border-radius:1em;margin-top:auto" width="270"></p>
 <p>Virginia García Alonso</p>
 </div><div class="column" style="width:20%;">
-<p><img data-src="img/maria.jpg" style="border-radius:1em;margin-top:auto"></p>
+<p><img data-src="img/maria.jpg" style="border-radius:1em;margin-top:auto" width="270"></p>
 <p>María Nanton</p>
 </div><div class="column" style="width:20%;">
 <p><img data-src="img/jesi.png" style="border-radius:1em;margin-top:auto" width="270"></p>
@@ -223,7 +228,7 @@ Jesica Formoso
 <ul>
 <li>Encabezado YAML</li>
 <li>Bloques de código (chunks)</li>
-<li>Texto markdown</li>
+<li>Texto en formato markdown</li>
 </ul>
 </section>
 <section id="estructura-de-un-.qmd-1" class="slide level2">
