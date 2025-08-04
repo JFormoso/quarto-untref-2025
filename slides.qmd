@@ -170,7 +170,7 @@ Entorno integrado para combinar código (soporte múltilenguaje), texto y visual
 
 -   Una carpeta que contiene un archivo `_quarto.yml` que vincula todos los documentos ubicados en esa carpeta.
 
--   Permite aplicar configuraciones comunes, compartir metadatos y renderizar múltiples documentos a la vez
+-   Permite aplicar configuraciones comunes, compartir metadatos y renderizar múltiples documentos a la vez.
 
 ## Tipos de proyecto de Quarto
 
