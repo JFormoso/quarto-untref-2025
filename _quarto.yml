@@ -6,10 +6,11 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Taller
+      - href: about.qmd
+        text: "👋 Soy Jesica"
       - href: slides.qmd
-        text: Slides
+        text: Diapositivas
 
 format:
   html:

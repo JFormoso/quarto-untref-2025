@@ -1,9 +1,9 @@
 ---
-title: "👋 Soy Jesica"
+title: ""
 comments: false
 image: "img/jesi.png"
 about:
-  template: broadside
+  template: jolla
   links:
     - icon: envelope
       text: Email
@@ -22,7 +22,7 @@ Me llamo Jesica Formoso. Soy psicóloga cognitiva, Doctora por la Universidad de
 
 ### 💻 Qué hago
 
-Además de investigar sobre la comprensión de texto en niños, enseño y desarrollo contenidos para cursos de estadística, programación, ciencia de datos y visualización en diversas universidades e instituciones. Además, asesoro proyectos de investigación en diseño metodológico, análisis estadístico y desarrollo de herramientas reproducibles. Esto implica colaborar estrechamente con equipos de investigación para automatizar flujos de trabajo, documentar código, organizar datos y desarrollar software que haga que la ciencia sea más abierta, reutilizable y sostenible.
+Además de investigar sobre comprensión de texto en niños, enseño y desarrollo contenidos para cursos de estadística, programación, ciencia de datos y visualización en diversas universidades e instituciones. Además, asesoro proyectos de investigación en diseño metodológico, análisis estadístico y desarrollo de herramientas reproducibles. Esto implica colaborar estrechamente con equipos de investigación para automatizar flujos de trabajo, documentar código, organizar datos y desarrollar software que haga que la ciencia sea más abierta, reutilizable y sostenible.
 
 ### 🌍 Comunidades y ciencia abierta
 
