@@ -88,7 +88,7 @@
     "href": "slides.html#qué-es-un-proyecto-de-quarto",
     "title": "Comunicá tus datos con R y Quarto",
     "section": "¿Qué es un proyecto de Quarto?",
-    "text": "¿Qué es un proyecto de Quarto?\n\nUna carpeta que contiene un archivo _quarto.yml que vincula todos los documentos ubicados en esa carpeta.\nPermite aplicar configuraciones comunes, compartir metadatos y renderizar múltiples documentos a la vez"
+    "text": "¿Qué es un proyecto de Quarto?\n\nUna carpeta que contiene un archivo _quarto.yml que vincula todos los documentos ubicados en esa carpeta.\nPermite aplicar configuraciones comunes, compartir metadatos y renderizar múltiples documentos a la vez."
   },
   {
     "objectID": "slides.html#tipos-de-proyecto-de-quarto",
