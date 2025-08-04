@@ -11,13 +11,13 @@ toc: true
 
 📍 **Dirección:** [Maipú 71, CABA (UNTREF sede posgrado)](https://maps.app.goo.gl/pnxFhK5aQ7aDYDHt6)
 
-<a href="https://doi.org/10.5281/zenodo.16736735"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.16736735.svg" alt="DOI"></a>
+<a href="archivos/materiales-taller.zip" download>📦 Descargar materiales del taller.</a>
 
 ## 🎯 Objetivo del taller
 
 Este taller tiene como objetivo introducir el uso de Quarto para la creación de documentos reproducibles que integran código, texto, visualizaciones y resultados en un solo archivo. Se trata de un curso introductorio, por lo que está dirigido a personas con poca o ninguna experiencia en el uso de Quarto. Se asume cierto conocimiento básico de R.
 
-<a href="archivos/materiales-taller.zip" download>📦 Descargar materiales del taller.</a>
+
 
 ## 📚 ¿Qué vas a aprender?
 
@@ -123,3 +123,5 @@ Este taller se encuentra auspiciado por:
 Estos materiales están publicados bajo la licencia [Creative Commons Attribution 4.0 International (CC BY  4.0)](http://creativecommons.org/licenses/by/4.0/), la cual implica que podés compartir y adaptar el material siempre que reconozcas la autoría de forma adecuada.
 
 {{< fa brands creative-commons size=2x >}} {{< fa brands creative-commons-by size=2x >}}
+
+<a href="https://doi.org/10.5281/zenodo.16736735"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.16736735.svg" alt="DOI"></a>
