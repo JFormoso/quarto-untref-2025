@@ -2,6 +2,9 @@
 
 Este repositorio acompaña el taller **Comunica tus datos con R y Quarto** de [R-Ladies Buenos Aires](https://rladiesba.netlify.app/) realizado el 4 de agosto de 2025, en la sede posgrado de la Universidad Tres de Febrero (UNTREF).
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16736735.svg)](https://doi.org/10.5281/zenodo.16736735)
+
 ------------------------------------------------------------------------
 
 ## 🎯 Objetivo del taller
@@ -99,4 +102,3 @@ Estos materiales están publicados bajo la licencia
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16736735.svg)](https://doi.org/10.5281/zenodo.16736735)
