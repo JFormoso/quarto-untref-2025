@@ -11,6 +11,7 @@ website:
         text: "👋 Soy Jesica"
       - href: slides.qmd
         text: Diapositivas
+  favicon: "img/logo-rladies-BA.png"
 
 format:
   html:
